@@ -23,7 +23,7 @@ Experience
 
 ### C-Estrategia
 
-##### > Senior Consultant
+##### Senior Consultant
  
 > Consultant for local governments in regulatory improvement, especially in topics for doing business improvement. I collaborated in the Doing Business in Mexico 2014 and 2016 report, published by the World Bank. And I also coordinated projects of digitalization and doing an agenda for regulatory improvement policies implementation.
 
