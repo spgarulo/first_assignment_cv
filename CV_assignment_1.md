@@ -15,6 +15,7 @@ Academic Background
 > BS in Economics
 >> 2009 - 2013
 
+- - -
 
 Experience
 ==========
@@ -22,16 +23,19 @@ Experience
 
 ### C-Estrategia
 
-> Senior Consultant 
+> Senior Consultant
+ 
 > Consultant for local governments in regulatory improvement, especially in topics for doing business improvement. I collaborated in the Doing Business in Mexico 2014 and 2016 report, published by the World Bank. And I also coordinated projects of digitalization and doing an agenda for regulatory improvement policies implementation.
 >> January 2014 - December 2015 (2 years)
 
 ### EY Mexico (Ernst & Young)
 
 > Consultant 
+
 > Preparation of Transfer Pricing Reports according to the Income Tax Law (LISR) and the OECD Transfer Pricing Guides, as well as the review of Reports elaborated by other consultants. 
 >> July 2011 - December 2013 (2 years 7 months)
 
+- - -
 
 Additional Skills
 =================
@@ -39,8 +43,8 @@ Additional Skills
 
 ## Languages
 
-### English
-### Spanish (native speaker)
+English
+Spanish (native speaker)
 
 ## Computing
 
@@ -54,9 +58,10 @@ Additional Skills
 
 ## Hobbies
 
-### Music (Electric Bass player)
+#### Music (Electric Bass player)
 > Winner of the Bachillerato Alexander Bain’s Festival, 2008.
-### Sports (Athletics)
+
+#### Sports (Athletics)
 > Scholarship in the Baccalaureate as Athletics Team Hurdler, 2004-2009.
 
 
